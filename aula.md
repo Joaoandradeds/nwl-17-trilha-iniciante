@@ -9,8 +9,8 @@ pra resolução de problema
 - [x]Operadores (atribuição, concatenação, matemáticos, lógicos)
 - [x]Tipos de dados (string, number, bolean)
 - [x]Estrutura de dados (functions, object, array)
-- []Controle de fluxo (if/elase)
-- []Estrutura de repetição (for, while)
+- [x]Controle de fluxo (if/elase)
+- [x]Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema 
 
@@ -31,7 +31,9 @@ pra resolução de problema
 
 ## Operadores 
 
-- Operador de atribuição de valor:  = 
+- [x]Operador de atribuição de valor:  = 
+- [x]Operador de concatenação +
+- [x]Operadores de comparação: ==, !=, < >, <=, =>
 
 ## Arrays:
 
