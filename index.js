@@ -1,23 +1,15 @@
-// Hello World 
-let mensagem = 'Olá mundo'
-//console.log(mensagem)
-
-let meta = {
-    value: 'ler um livro por mês',
-    checked: false,
-}
-
-let metas = [
-    meta, 
-    {
-        value: 'caminhar 20 min todo dia',
-        checked: false 
+const start = () => {
+    while(true) {
+        let opcao = 'sair'
+        switch(opcao){
+            case 'cadastrar':
+            break 
+            case 'listar':
+                console.log('vamos listar')
+                break 
+                case 'sair':
+                return  
+        }
     }
-]
-
-console.log(metas[0].value)
-//fuinction // arrow function
-//const criarMeta = () => {}
-
-
-//unction criarMeta() {}
+}
+start()
