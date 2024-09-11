@@ -47,3 +47,21 @@ pra resolução de problema
 [X]Criar, passar argumento 
 [x]Executar
 [x] Arrow functions / named function
+
+## Estrutura de repetição 
+- [x]While 
+
+## condicionais 
+
+- [x]Switch : Caso de condicionais 
+
+
+## Modulos em Node.js
+
+- [x]Importação de módulos(require, CommonJS)
+- [x]Biblioteca 'inquire' para criar prompts interativos 
+
+
+## Programação assíncrona e Promises:
+
+[x]Uso de funções assíncronas (async/await)
