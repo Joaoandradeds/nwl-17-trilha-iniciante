@@ -34,10 +34,12 @@ pra resolução de problema
 - [x]Operador de atribuição de valor:  = 
 - [x]Operador de concatenação +
 - [x]Operadores de comparação: ==, !=, < >, <=, =>
+- [x] spread operator: ...
 
 ## Arrays:
 
 [x] Uma lista que contém qualquer tipo de dado
+[x] Métodos de array: push, find, foreach, filter (HOF) Higher order functions
 
 
 ## Objetos 
@@ -67,3 +69,4 @@ pra resolução de problema
 ## Programação assíncrona e Promises:
 
 [x]Uso de funções assíncronas (async/await)
+
