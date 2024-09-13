@@ -64,6 +64,13 @@ pra resolução de problema
 
 - [x]Importação de módulos(require, CommonJS)
 - [x]Biblioteca 'inquire' para criar prompts interativos 
+- [x] FS(file system )
+
+## JSON 
+
+[x] Javascript Object Notation 
+[x] JSON.parse():  de JSON pra JS
+[x] JSON.stringfy(): transforma de JS pra JSON 
 
 
 ## Programação assíncrona e Promises:
